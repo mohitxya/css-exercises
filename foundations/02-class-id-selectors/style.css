@@ -1,0 +1,26 @@
+.cl
+{
+    background-color: #f59285;
+}
+#four
+{
+    background-color: rgb(42, 200, 42);
+    font-weight: 1000;
+    font-size: 40px;
+}
+.cl#one,.cl#five
+{
+    font-size: 25px;
+    font-weight: bold;
+}
+#two
+{
+    color:blue;
+    font-size: 45px;
+    font-weight: bold;
+}
+#three
+{
+    font-size: 42px;
+    font-weight: 400;
+}
